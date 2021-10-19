@@ -33,6 +33,7 @@
 [<img align = "left" alt = "Blender3D" width="26px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blender.svg"/>][github]
 [<img align = "left" alt = "Heroku" width="26px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg"/>][github]
 [<img align = "left" alt = "MongoDB" width="26px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"/>][github]
+<br />
 
 ---
 
