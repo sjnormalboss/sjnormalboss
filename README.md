@@ -39,12 +39,18 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+
+
+
+
 
 ### Connect with me:
 
-[<img align="left" alt= "sjnormalboss | LinkedIn" width="35"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img alt= "sjnormalboss | Instagram" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="right" alt= "sjnormalboss | Discord" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt= "sjnormalboss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt= "sjnormalboss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt= "sjnormalboss | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br />
 <br />
