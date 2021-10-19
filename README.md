@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" alt="sjnormalboss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjnormalboss&show_icons=true&hide_border=true&" />
+<img align="left" alt="sjnormalboss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjnormalboss&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <br />
 <br />
@@ -38,13 +38,7 @@
 <br />
 <br />
 <br />
-
-
-
-
-
-
-
+<br />
 
 
 ### Connect with me:
