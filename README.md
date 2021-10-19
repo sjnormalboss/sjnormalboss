@@ -1,5 +1,7 @@
 ### Hi there, I'm Saaketh! 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnormalboss) ](https://github.com/sjnormalboss/github-readme-stats)
+
 ### I love to code and these are some fun facts about me:
 - 😭  I'm currently trying my best to survive through High School
 - 🙁  I'm currently learning Java
@@ -7,7 +9,7 @@
 - 🙋  2021 goals: Live happier than 2020
 - 🤽‍♂️  Fun Fact: I love to play water polo for fun and competetively! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnormalboss) ](https://github.com/sjnormalboss/github-readme-stats)
+
 
 
 
