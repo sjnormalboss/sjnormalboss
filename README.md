@@ -1,6 +1,6 @@
 ### Hi there, I'm Saaketh! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnormalboss) ](https://github.com/sjnormalboss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnormalboss&layout=compact) ](https://github.com/sjnormalboss/github-readme-stats)
 
 ### I love to code and these are some fun facts about me:
 - 😭  I'm currently trying my best to survive through High School
@@ -41,7 +41,7 @@
 
 
 <br />
-
+<br />
 
 
 
