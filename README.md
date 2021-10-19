@@ -35,9 +35,11 @@
 <br />
 
 
-
+<p align="center">
 
 ### Connect with me:
+
+</p>
 
 [<img align="left" alt= "sjnormalboss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt= "sjnormalboss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
