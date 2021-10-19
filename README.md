@@ -7,9 +7,6 @@
 - 🙋  2021 goals: Live happier than 2020
 - 🤽‍♂️  Fun Fact: I love to play water polo for fun and competetively! 
 
-<br />
-
----
 
 ### Connect with me:
 
