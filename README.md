@@ -34,6 +34,10 @@
 [<img align = "left" alt = "Heroku" width="26px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/heroku.svg"/>][github]
 [<img align = "left" alt = "MongoDB" width="26px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"/>][github]
 
+---
+
+<img align="left" alt="sjnormalboss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjnormalboss&show_icons=true&hide_border=true" />
+
 <br />
 <br />
 
