@@ -4,7 +4,7 @@
 
 ### I love to code and here are some fun facts about me:
 - 😭   Trying to survive through High School
-- 🙁   Yay: Learning Java
+- 🙁   Yay: Learning everything
 - 🥺   My wishes: I'm looking forward to collaborate with anyone!
 - 🙋   2021 goals: Live happier than 2020
 - 🤽‍♂️   Fun Fact: I love to play water polo for fun and competetively! 
