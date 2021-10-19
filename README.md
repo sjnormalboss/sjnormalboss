@@ -7,6 +7,10 @@
 - 🙋  2021 goals: Live happier than 2020
 - 🤽‍♂️  Fun Fact: I love to play water polo for fun and competetively! 
 
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt= "sjnormalboss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
@@ -14,6 +18,8 @@
 [<img align="left" alt= "sjnormalboss | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br />
+
+---
 
 ### Languages and Tools: 
 
