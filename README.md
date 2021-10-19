@@ -2,7 +2,7 @@
 
 
 
-### I love to code and these are some fun facts about me:
+### I love to code and here are some fun facts about me:
 - 😭  I'm currently trying my best to survive through High School
 - 🙁  I'm currently learning Java
 - 🥺  I'm looking forward to collaborate with anyone!
