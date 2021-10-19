@@ -3,11 +3,11 @@
 
 
 ### I love to code and here are some fun facts about me:
-- 😭  I'm currently trying my best to survive through High School
-- 🙁  I'm currently learning Java
-- 🥺  I'm looking forward to collaborate with anyone!
-- 🙋  2021 goals: Live happier than 2020
-- 🤽‍♂️  Fun Fact: I love to play water polo for fun and competetively! 
+- 😭   Trying to survive through High School
+- 🙁   Yay: Learning Java
+- 🥺   My wishes: I'm looking forward to collaborate with anyone!
+- 🙋   2021 goals: Live happier than 2020
+- 🤽‍♂️   Fun Fact: I love to play water polo for fun and competetively! 
 
 
 ### Languages and Tools: 
