@@ -8,12 +8,6 @@
 - 🥺  I'm looking forward to collaborate with anyone!
 - 🙋  2021 goals: Live happier than 2020
 - 🤽‍♂️  Fun Fact: I love to play water polo for fun and competetively! 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnormalboss&layout=compact) ](https://github.com/sjnormalboss/github-readme-stats)
-
-
-
 
 
 ### Languages and Tools: 
@@ -38,11 +32,18 @@
 
 ---
 
-
+### Github Stats
 
 <img align="left" alt="sjnormalboss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjnormalboss&show_icons=true&hide_border=true&theme=radical" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnormalboss&langs_count=3)](https://github.com/sjnormalboss/github-readme-stats)
 
+
+
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
