@@ -35,7 +35,7 @@
 <br />
 
 
-<p align="center">
+<p align="right">
 
 ### Connect with me:
 
