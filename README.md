@@ -32,12 +32,9 @@
 
 
 
-<a href="https://github.com/sjnormalboss/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sjnormalboss&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/sjnormalboss/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sjnormalboss&repo=convoychat" />
-</a>
+<img align="left" alt="sjnormalboss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjnormalboss&show_icons=true&hide_border=true&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjnormalboss&layout=compact) ](https://github.com/sjnormalboss/github-readme-stats)
 
 <br />
 <br />
