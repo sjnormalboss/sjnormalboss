@@ -38,9 +38,9 @@
 
 <h2 align="center"> Connect with me: </h2>
 
-[<img align="center" alt= "sjnormalboss | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt= "sjnormalboss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="center" alt= "sjnormalboss | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="center" alt= "sjnormalboss | LinkedIn" width="35"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt= "sjnormalboss | Instagram" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="center" alt= "sjnormalboss | Discord" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br />
 <br />
