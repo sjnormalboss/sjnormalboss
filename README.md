@@ -8,16 +8,6 @@
 - 🤽‍♂️  Fun Fact: I love to play water polo for fun and competetively! 
 
 
-### Connect with me:
-
-[<img align="left" alt= "sjnormalboss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt= "sjnormalboss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt= "sjnormalboss | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-
-<br />
-
----
-
 ### Languages and Tools: 
 
 [<img align = "left" alt = "Python" width="26px" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>][github]
@@ -41,6 +31,17 @@
 ---
 
 <img align="left" alt="sjnormalboss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sjnormalboss&show_icons=true&hide_border=true&" />
+
+<br />
+
+---
+
+
+### Connect with me:
+
+[<img align="left" alt= "sjnormalboss | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt= "sjnormalboss | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt= "sjnormalboss | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 
 <br />
 <br />
